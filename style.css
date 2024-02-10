@@ -1,0 +1,38 @@
+html {
+    font-family: 'PT Sans', sans-serif;
+    width: 30%;
+    position: relative;
+    left: 35%;
+}
+
+h1 {
+    text-transform: uppercase;;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+img {
+    border-radius: 10px;
+    float: left;
+    position: relative;
+}
+
+#header {
+    position: relative;
+    left: 10px;
+}
+
+#resume-body {
+    clear: left;
+}
+
+#links {
+    line-height: 3;
+}
+
+footer {
+    text-align: center;
+    line-height: 5px;
+}
